@@ -36,6 +36,6 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 
 ## Contact
-Feel free to contact [me](http://www.eecs.qmul.ac.uk/~qd301/) for any question. Cheers.
+Feel free to contact [Qi Dong](http://www.eecs.qmul.ac.uk/~qd301/) for any question. Cheers.
 
  
